@@ -31,7 +31,7 @@ Para jogar, basta executar o arquivo Java correspondente no seu ambiente de dese
 ### Autora
 **Ana Julia Sampaio**
 
-Créditos: Isabela Viana, que colaborou na construção do jogo.
+**Créditos:** Isabela Viana, que colaborou na construção do jogo.
 
 Disciplina: **Programação I**
 
