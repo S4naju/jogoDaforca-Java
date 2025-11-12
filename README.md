@@ -1,4 +1,4 @@
-# jogo da Forca em Java
+# Jogo da Forca em Java
 
 ### Descrição do projeto:
   Este projeto foi desenvolvido durante o meu ensino médio integrado ao curso técnico de informática no IFRJ – Campus Arraial do Cabo, como parte da disciplina de Programação I.
