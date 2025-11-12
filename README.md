@@ -28,10 +28,15 @@ Para jogar, basta executar o arquivo Java correspondente no seu ambiente de dese
  
 ---
 
+### Observação 
+
+Este projeto foi desenvolvido em dupla durante o curso técnico, com a participação de Isabela Viana.
+ 
+---
+
 ### Autora
 **Ana Julia Sampaio**
 
-**Créditos:** Isabela Viana, que colaborou na construção do jogo.
 
 Disciplina: **Programação I**
 
